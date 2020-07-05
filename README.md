@@ -14,21 +14,18 @@ Before running server you need set env variables:
 
 ```
 $ export API_KEY=value
-
 ```
 
 where `value` is your API Key from IEX
 
 ```
 $ export FLASK_APP=application.py
-
 ```
 
 And then you can run the server:
 
 ```
 $ flask run
-
 ```
 
 Enjoy 😀
