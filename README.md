@@ -1,4 +1,4 @@
-# CS50 Finance
+# CS50 Finance 🤑
 
 ## App for Hardvard's CS50 Web Track
 
